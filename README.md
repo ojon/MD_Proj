@@ -6,7 +6,7 @@ Projeto da disciplina de mineração de dados
 ##Preparação dos dados de treinamento
 Para ler o arquivo com os dadaos de treinamento no Weka, primeiro foram necessarios alguns ajustes:
 
-[PreparacaoDosDados]() corresponde a um IPython Notebook que realiza esta tarefa
+[PreparacaoDosDados](http://nbviewer.ipython.org/github/ojon/MD_Proj/blob/master/PreparacaoDosDados.ipynb) corresponde a um IPython Notebook que realiza esta tarefa
 
 ##Limpeza dos dados
 
