@@ -1,20 +1,6 @@
 MD_Proj
 =======
 
-Projeto da disciplina de mineração de dados
 
-##Preparando arquivo p/ leitura
-Para ler o arquivo com os dadaos de treinamento no Orange, primeiro foram necessarios alguns ajustes:
 
-o arquivo [PreparacaoDosDados.ipynb](https://github.com/ojon/MD_Proj/blob/prepDados/PreparacaoDosDados.ipynb) corresponde a um IPython Notebook que realiza esta tarefa
-
-##Limpeza dos dados
-
-O processo de limpeza dos dados:
-LimpezaDados.ipynb
-
-##Seleção de Atributos
-
-A seleção de atributos baseada no testeT:
-
-SelecaoAtributos.ipynb
+This project, originally from [kdnuggets](https://www.kdnuggets.com/data_mining_course/assignments/final-project.html), was presented to me in a data mining course at the university. This is a version whose implementation is performed completely in Python, using the [pandas](https://pandas.pydata.org/) and [scikit-learn](http://scikit-learn.org/stable/) library.
